@@ -1,0 +1,26 @@
+# FastAPI and server
+fastapi
+uvicorn[standard]
+pydantic
+
+# LangChain and RAG components - compatible versions
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langgraph
+tiktoken
+
+# Document processing
+pymupdf
+
+# Vector store
+qdrant-client
+
+# Embeddings and LLM
+sentence-transformers
+transformers
+torch
+
+# Utilities
+python-multipart
