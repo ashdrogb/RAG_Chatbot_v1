@@ -45,7 +45,7 @@ COLLECTION_NAME = "indian_budget"
 EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 # ⚠️ PUT YOUR GROQ API KEY HERE
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 
 # ============================================
 # GLOBAL VARIABLES
